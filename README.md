@@ -3,7 +3,7 @@ Autoexec for any source based engine games
 
 Such as TF2, CS:GO, Portal series, LFD series, HL(I want to say series lol)
 
-Advertisements removed via scripts
+(Online) advertisements removed via scripts,
 Music fine tuned
 
 Optimisation for FPS
