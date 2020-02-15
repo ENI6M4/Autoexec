@@ -1,0 +1,1 @@
+-tickrate 128 -no-browser +exec autoexec -gl_nv_bindless_texturing -gl_amd_pinned_memory -NoQueuedPacketThread -gl_enablesamplerobjects +mat_disable_fancy_blending 1 +mat_specular 0
